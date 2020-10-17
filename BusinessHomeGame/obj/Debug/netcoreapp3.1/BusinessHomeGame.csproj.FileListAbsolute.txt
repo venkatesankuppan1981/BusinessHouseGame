@@ -1,0 +1,13 @@
+D:\Learnersarea\BusinessHomeGame\obj\Debug\netcoreapp3.1\BusinessHomeGame.csprojAssemblyReference.cache
+D:\Learnersarea\BusinessHomeGame\obj\Debug\netcoreapp3.1\BusinessHomeGame.AssemblyInfoInputs.cache
+D:\Learnersarea\BusinessHomeGame\obj\Debug\netcoreapp3.1\BusinessHomeGame.AssemblyInfo.cs
+D:\Learnersarea\BusinessHomeGame\obj\Debug\netcoreapp3.1\BusinessHomeGame.csproj.CoreCompileInputs.cache
+D:\Learnersarea\BusinessHomeGame\bin\Debug\netcoreapp3.1\BusinessHomeGame.exe
+D:\Learnersarea\BusinessHomeGame\bin\Debug\netcoreapp3.1\BusinessHomeGame.deps.json
+D:\Learnersarea\BusinessHomeGame\bin\Debug\netcoreapp3.1\BusinessHomeGame.runtimeconfig.json
+D:\Learnersarea\BusinessHomeGame\bin\Debug\netcoreapp3.1\BusinessHomeGame.runtimeconfig.dev.json
+D:\Learnersarea\BusinessHomeGame\bin\Debug\netcoreapp3.1\BusinessHomeGame.dll
+D:\Learnersarea\BusinessHomeGame\bin\Debug\netcoreapp3.1\BusinessHomeGame.pdb
+D:\Learnersarea\BusinessHomeGame\obj\Debug\netcoreapp3.1\BusinessHomeGame.dll
+D:\Learnersarea\BusinessHomeGame\obj\Debug\netcoreapp3.1\BusinessHomeGame.pdb
+D:\Learnersarea\BusinessHomeGame\obj\Debug\netcoreapp3.1\BusinessHomeGame.genruntimeconfig.cache
